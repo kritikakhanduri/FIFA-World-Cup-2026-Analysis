@@ -95,7 +95,7 @@ This project focuses on exploring several important dimensions of football analy
 
 ## Dashboard Preview
 
-![FIFA World Cup 2026 Dashboard](images/Screenshot%2026-09-09%141525.png)
+![FIFA World Cup 2026 Dashboard](images/Screenshot_2026-09-09_141525.png)
 
 ## Project Purpose
 
